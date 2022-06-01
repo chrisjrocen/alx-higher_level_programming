@@ -16,14 +16,14 @@ Enjoy!
 
 ### Read and Watch: 
 
-[The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
-[Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
+1. [Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
 
-[An informal introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
+1. [An informal introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
 
-[Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
+1. [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 
-[Learn to Program with Python (Video Tutorials)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+1. [Learn to Program with Python (Video Tutorials)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 
-[Pycodestyle 2.8.0](https://pypi.org/project/pycodestyle/) - [Pycodestyle is the new Python style code](https://github.com/PyCQA/pycodestyle/issues/466)
+1. [Pycodestyle 2.8.0](https://pypi.org/project/pycodestyle/) - [Pycodestyle is the new Python style code](https://github.com/PyCQA/pycodestyle/issues/466)
