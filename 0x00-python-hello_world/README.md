@@ -11,3 +11,12 @@ For this project, we are expected you to look at these concepts:
 1. [Python Garbage Collector Implementations
 CPython, PyPy and GaS (PDF)](https://thp.io/2012/python-gc/python_gc_final_2012-01-22.pdf)
 1. [A python interpreter written in Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+
+## Learning Objectives
+
+* What is the Zen of Python
+* How to use the Python interpreter
+* How to print text and variables using print
+* How to use strings
+* What are indexing and slicing in Python
+* What is the official Python coding style and how to check your code with pycodestyle
